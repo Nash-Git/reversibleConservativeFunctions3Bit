@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1455922996 source:d:\uofl_asif\phd program\program codes\con3x3\conrev3x3\main.cpp
+	<iostream>
+	<bitset>
+	<iomanip>
+	<string>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<cmath>
+
